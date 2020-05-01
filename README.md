@@ -1,5 +1,6 @@
 # Liver Disease Prediction
 
-This purpose of this project is to predict Liver Disease in Indian patients
+#### -- Project Status: [Active]
 
-[Read the tutorial](https://blog.usejournal.com/demystifying-classification-algorithms-and-evaluation-metrics-c915f18f9dff)
+## Project Intro/Objective
+People with Liver disease are dramatically increasing due to excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, drugs, etc. This project aims to predict the onset of the disease.
