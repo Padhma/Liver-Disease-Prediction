@@ -18,3 +18,13 @@ People with Liver disease are dramatically increasing due to excessive consumpti
   * Jaccard Index
   * F1-Score
   * Log Loss
+
+### Technologies Used:
+* Anaconda
+* Jupyter
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Sklearn
