@@ -21,7 +21,7 @@ People with Liver disease are dramatically increasing due to excessive consumpti
   * F1-Score
   * Log Loss
 
-### Technologies Used:
+### Technologies utilized:
 * Anaconda
 * Jupyter
 * Python
@@ -30,3 +30,10 @@ People with Liver disease are dramatically increasing due to excessive consumpti
 * Matplotlib
 * Seaborn
 * Sklearn
+
+### Needs of this project:
+* Data Exploration/Descriptive Statistics
+* Data Preprocessing/Cleaning
+* Statistical Modeling
+* Machine Learning - Supervised Learning Approach
+* Wrtiteup/Reporting
