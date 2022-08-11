@@ -32,7 +32,7 @@ The data for this project was obtained from [Kaggle](https://www.kaggle.com/jeev
 * NumPy
 * Matplotlib
 * Seaborn
-* Sklearn
+* scikit-learn
 
 ### Needs of this project:
 * Data Exploration/Descriptive Statistics
