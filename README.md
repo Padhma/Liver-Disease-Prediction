@@ -1,6 +1,6 @@
 # Liver Disease Prediction
 
-Read [this](https://blog.usejournal.com/demystifying-classification-algorithms-and-evaluation-metrics-c915f18f9dff) article to know how this project was created from scratch.
+Read [this](https://padhmamuniraj.medium.com/demystifying-classification-algorithms-and-evaluation-metrics-c915f18f9dff) article to know how this project was created from scratch.
 
 #### -- Project Status: [Active]
 
